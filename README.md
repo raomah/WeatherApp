@@ -45,4 +45,4 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions, suggestions, or concerns, feel free to contact the project maintainer(s):
 - [Email](mailto:mahima16rao@gmail.com)
 
-Thank you for your interest in the Weather iOS App! Stay informed and stay ahead of the weather! 🌦️📱
+Thank you for your interest in the Weather iOS App! Stay informed and stay ahead of the weather! 
